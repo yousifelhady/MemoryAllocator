@@ -53,7 +53,7 @@ public:
 		n->allocated = 0;
 	}
 	friend class LinkedList;
-};
+}; // end of Node class
 
 class LinkedList
 {
@@ -383,4 +383,4 @@ public:
 		}
 		cout << "\n<NO SPACE IN MEMORY>\n" << endl << "Memory contains..\n" << endl;
 	}
-};
+}; // end of LinkedList class
