@@ -1,0 +1,2 @@
+# MemoryAllocator
+Memory Allocator program is part of OS subject in 3rd year CSE, Faculty of Engineering, Ain Shams University. The program is about creating memory (initially full) and assigning addresses of holes to empty some parts of it, then entering some processes of any sizes and decide by which algorithm the process shall fit inside the memory (first fit, best fit, worst fit). The program uses self-developed linked list library.
